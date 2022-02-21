@@ -1,0 +1,1 @@
+{"name":"Local: bucket-sort","url":"e:\\sorting-algo\\bucket-sort.cpp","tests":[{"id":1645428489601,"input":"9\n20 88 70 85 75 95 18 82 60\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\sorting-algo\\bucket-sort.cpp","group":"local","local":true}
